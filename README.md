@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mg-mahantesh" alt="mg-mahantesh" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@immgmonty" target="blank"><img src="https://img.shields.io/twitter/follow/@immgmonty?logo=twitter&style=for-the-badge" alt="@immgmonty" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **web development**
 
@@ -13,7 +13,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@immgmonty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="@immgmonty" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mahantesh mg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="mahantesh mg" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@mgmahantesh1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="@mgmahantesh1234" height="30" width="40" /></a>
 </p>
